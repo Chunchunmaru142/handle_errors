@@ -1,4 +1,4 @@
-use colored::*;
+use colored::Colorize;
 
 #[macro_export]
 macro_rules! print_err {
