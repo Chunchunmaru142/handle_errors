@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "This is just a macro to get the thiserror with colors and the error place"
+license = "MIT"  # Or use "Apache-2.0", "GPL-3.0", or another license as appropriate
 
 [dependencies]
 colored = "2"
