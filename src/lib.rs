@@ -1,3 +1,5 @@
+use colored::*;
+
 #[macro_export]
 macro_rules! print_err {
     ($error:expr) => {
